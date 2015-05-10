@@ -61,7 +61,7 @@ namespace PackageManagement {
         /// </summary>
         /// <returns>The name of this provider </returns>
         public string PackageProviderName {
-            get { return "SampleProvider"; }
+            get { return "PyGet"; }
         }
 
         /// <summary>

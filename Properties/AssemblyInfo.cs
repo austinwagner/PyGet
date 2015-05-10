@@ -19,12 +19,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("$project.$provider")]
-[assembly: AssemblyDescription("PackageManagement package provider: $provider.")]
+[assembly: AssemblyTitle("PyGet")]
+[assembly: AssemblyDescription("PackageManagement Python Provider")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("$project")]
-[assembly: AssemblyProduct("$project.$provider")]
-[assembly: AssemblyCopyright("Copyright $project © 2014")]
+[assembly: AssemblyCompany("Austin Wagner")]
+[assembly: AssemblyProduct("PyGet")]
+[assembly: AssemblyCopyright("Copyright Austin Wagner © 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
